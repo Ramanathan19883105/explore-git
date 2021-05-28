@@ -1,1 +1,2 @@
-fix feature 1 bug YYYY
+
+hotFix-1 - fix feature 1 bug Y
